@@ -1,0 +1,17 @@
+{
+    "name": "mini-vite",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "vite": "nodemon mini-vite.js"
+    },
+    "dependencies": {
+        "vue": "^3.1.5"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^1.2.5",
+        "@vue/compiler-sfc": "^3.1.5",
+        "koa": "^2.13.1"
+    }
+}
